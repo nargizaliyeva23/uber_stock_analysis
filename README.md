@@ -34,6 +34,4 @@ The workflow covers data extraction and analytical queries in SQL, data explorat
 - Navigation buttons  
 - Yearly and monthly comparison views
 
----
 
-This project demonstrates skills in SQL analytical querying, Python data analysis, and Power BI dashboard development.
